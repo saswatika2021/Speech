@@ -5,7 +5,7 @@ librosa
 json
 numpy
 matplotlib.pyplot 
-tensorflow
+tensorflow==2.2.0
 pandas
 seaborn
 glob 
