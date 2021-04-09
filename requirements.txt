@@ -1,0 +1,15 @@
+keras
+sklearn
+arn.preprocessing
+librosa
+json
+numpy
+matplotlib.pyplot 
+tensorflow
+pandas
+seaborn
+glob 
+os
+tqdm
+pickle
+IPython.display
